@@ -1,5 +1,8 @@
 # CriminalJusticeDB
 
+Hello my name is Daniel this was for class COP 2805C. This was used to create table and update Datebase.
+The uploaded project involves creating a relational database for managing information related to criminal records. The database is designed to store various tables containing data about criminals, their aliases, crimes, sentences, probation officers, charges, officers, appeals, and crime codes. The project employs SQL (Structured Query Language) to define and manipulate the database structure. It includes the creation of tables with appropriate data types for storing different pieces of information, such as numeric values, strings, dates, and characters.
+
 Create table Aliases 
 CREATE TABLE Aliases ( 
 Alias_iD NUMERIC(10), 
